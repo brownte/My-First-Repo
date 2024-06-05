@@ -1,5 +1,1 @@
-I am adding text to this file.
-
-Another change!
-
-bla bla
+This is a text file that I will push to new-branch.
